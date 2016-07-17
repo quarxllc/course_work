@@ -1,0 +1,3 @@
+The Rectangle Method for Tangent of 5.000000 iterations: -14.939151 
+The Midpoint Method for Tangent of 5.000000 iterations: -15.587512 
+The Trapezoid Method for Tangent of 5.000000 iterations: -15.587512 
